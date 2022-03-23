@@ -9,4 +9,4 @@ Ekaagr/Ekaagr is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi...this is Akhil Rana from Shimla..new here..learning new things and having the time of my life
+Hi...this is Akhil Rana from Shimla..new here..learning and having the time of my life
